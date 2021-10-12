@@ -16,3 +16,7 @@
 - Templately
 - WooCommerce
 - WooCommerce Stripe Gateway
+
+## DB Name
+
+- pccornerdb
